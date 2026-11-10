@@ -30,6 +30,7 @@ The experiment uses UART communication between the STM32 Blue Pill development b
 - STM32 USART1 RX (PA10) → ESP8266 TX
 - STM32 USART2 is used for displaying ESP8266 responses on the PC terminal.
 - Common GND is connected between STM32 and ESP8266.
+<img width="1000" height="543" alt="image" src="https://github.com/user-attachments/assets/6e3087cd-c824-4d68-ab4a-2f1ccc89cb73" />
 
 ### 2. Core Logic / Pseudocode / Code Base
 
