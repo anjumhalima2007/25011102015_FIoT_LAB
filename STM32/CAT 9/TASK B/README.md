@@ -27,7 +27,7 @@ The experiment uses UART communication between the STM32 Blue Pill development b
 - **Baud Rate:** 115200 bps
 
 The TX and RX pins of the STM32 are connected to the corresponding RX and TX pins of the USB-to-TTL converter, with a common GND connection. The onboard LED is controlled through GPIO pin PC13.
-
+![alt text](<CIRCUIT DIAGRAM-1.png>)
 ### 2. Core Logic / Pseudocode / Code Base
 
 **Working Principle:**
