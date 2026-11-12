@@ -35,7 +35,7 @@ The experiment uses the AT89S52 microcontroller to control an LED connected to P
 
 **Circuit Diagram:**
 
-<img width="990" height="662" alt="image" src="https://github.com/user-attachments/assets/02d0bb1d-89e9-437c-b86b-bd646a37e5e8" />
+![alt text](circuit.png)
 
 ---
 
