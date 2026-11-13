@@ -27,7 +27,7 @@ The experiment uses a 4×3 matrix keypad as the input device, four LEDs to indic
 
 **Circuit Diagram:** 
 
-![alt text](circuit-1.png)
+![alt text](circuit.png)
 
 
 ### 2. Core Logic / Pseudocode / Code Base
