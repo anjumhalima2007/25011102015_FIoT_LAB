@@ -48,7 +48,7 @@ The experiment demonstrates interfacing a 16×2 character LCD with the AT89S52 m
 - P3.3 is configured as the Enable (E) control signal.
 - The RW pin is connected to GND to enable write-only operation.
 - The LCD is initialized using the function set, display control, entry mode, and clear display commands.
-![alt text](<circuit.png>)
+![alt text](circuit.png)
 ### 2. Core Logic / Pseudocode / Code Base
 
 **Working Principle:**
