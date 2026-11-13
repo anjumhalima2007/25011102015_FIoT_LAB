@@ -1,8 +1,8 @@
 # EXPERIMENT DETAILS
 
-**EXP:** CONTINUOUS LAB EVALUATION – TIMER-BASED LED CONTROL
+**EXP:** CONTINUOUS LAB EVALUATION 5 – TIMER-BASED LED CONTROL
 
-**DATE:** [Enter the date of the experiment]
+**DATE:** 10-08-2026
 
 **NAME OF EXP:** Timer-Based LED Control Using Hardware Timer Interrupt
 

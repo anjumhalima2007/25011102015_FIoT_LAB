@@ -1,6 +1,6 @@
 # EXPERIMENT DETAILS
 
-**EXP:** CONTINUOUS LAB EVALUATION – 13
+**EXP:** CONTINUOUS LAB EVALUATION – 14
 
 **DATE:** 27/10/2026
 
@@ -10,7 +10,7 @@
 
 ---
 
-## TASK 13 – Sensor Interfacing (BME280) – MQTT – Node Analytics
+## TASK 14 – Sensor Interfacing (BME280) – MQTT – Node Analytics
 
 ### 1. Circuit Diagram
 

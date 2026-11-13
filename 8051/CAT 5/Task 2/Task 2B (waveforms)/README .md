@@ -1,6 +1,6 @@
 # EXPERIMENT DETAILS
 
-**EXP:** CONTINUOUS LAB EVALUATION – TIMER-BASED LED CONTROL
+**EXP:** CONTINUOUS LAB EVALUATION 5 – TIMER-BASED LED CONTROL
 
 **DATE:** 10/08/2026
 
@@ -32,8 +32,8 @@ The experiment uses the AT89S52 microcontroller to generate different digital si
 The two push buttons are connected between their respective GPIO pins and GND. The pins are configured as inputs using the 8051 quasi-bidirectional port structure by writing logic HIGH to them.
 
 **Circuit Diagram:**
-
-![AT89S52 Variable Frequency Waveform Generator Circuit](circuit.png)
+ 
+![alt text](circuit.png)
 
 ### 2. Core Logic / Pseudocode / Code Base
 

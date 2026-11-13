@@ -10,7 +10,7 @@
 
 ---
 
-## TASK 9C – Connect Wemos to Wi-Fi
+## TASK 10B – Connect Wemos to Wi-Fi
 
 ### 1. Circuit Diagram
 
