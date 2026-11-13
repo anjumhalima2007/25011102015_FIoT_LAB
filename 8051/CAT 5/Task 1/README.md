@@ -31,7 +31,7 @@ The experiment uses the AT89S52 microcontroller to control an LED connected to P
 - **Power Supply:** +5 V and GND
 
 **Circuit Diagram:**
-
+![alt text](circuit.png)
 
 
 ### 2. Core Logic / Pseudocode / Code Base
