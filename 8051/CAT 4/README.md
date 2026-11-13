@@ -25,9 +25,9 @@ The experiment uses a 4×3 matrix keypad as the input device, four LEDs to indic
 - **Seven-Segment Display:** Connected to Port P0
 - **Display Type:** Common-cathode seven-segment display
 
-**Circuit Diagram:** Save the hardware connection diagram in this experiment folder as `circuit.png`.
+**Circuit Diagram:** 
 
-<img width="996" height="665" alt="image" src="https://github.com/user-attachments/assets/3e0411fd-835f-47b5-a9fc-2802a8e30c1d" />
+![alt text](<Circuit.png>)
 
 
 ### 2. Core Logic / Pseudocode / Code Base
