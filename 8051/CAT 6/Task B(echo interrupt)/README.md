@@ -33,7 +33,7 @@ The experiment uses UART serial communication between the AT89S52 microcontrolle
 | RXD (P3.0) | TXD |
 | GND | GND |
 
-<img width="997" height="667" alt="image" src="https://github.com/user-attachments/assets/cbf82d73-8e1d-4156-9fde-c89ef7eb129e" />
+![alt text](<circuit.png>)
 
 
 ### 2. Core Logic / Pseudocode / Code Base

@@ -37,7 +37,7 @@ The USB-to-TTL converter must use compatible 5 V TTL logic levels. Do not connec
 
 **Circuit Diagram:** Save the hardware connection diagram in this experiment folder as `circuit.png`.
 
-<img width="997" height="667" alt="image" src="https://github.com/user-attachments/assets/fb4c0760-1200-443b-9bd9-822b30fbb42f" />
+![alt text](circuit.png)
 
 
 ### 2. Core Logic / Pseudocode / Code Base
