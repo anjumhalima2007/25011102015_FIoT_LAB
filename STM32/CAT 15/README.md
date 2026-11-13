@@ -7,6 +7,8 @@ NAME OF EXP: BME280 Sensor Interfacing Using I²C and MQTT for Node-RED Analytic
 
 HARDWARE SETUP / PLATFORM: CubeMX + Keil MDK + STM32 Nucleo Development Board + Debugger + BME280 Sensor + ESP8266 Wi-Fi Module# Mould Prediction Dashboard – IoT-Based Indoor Moisture Monitoring and Advisory System
 
+### **Mould Prediction Dashboard**
+
 ## 1. Project Overview
 
 The **Mould Prediction Dashboard** is an IoT-based environmental monitoring and indoor moisture advisory system designed to assess indoor conditions that may encourage mould growth.
