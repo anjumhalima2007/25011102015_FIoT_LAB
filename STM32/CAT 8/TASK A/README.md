@@ -40,7 +40,7 @@ The experiment demonstrates GPIO input and output interfacing using the STM32 Bl
 - PC13 is configured as a GPIO output.
 - When the push button is pressed, PA3 becomes LOW.
 - The onboard LED turns ON when PC13 is driven LOW.
-![alt text](<CIRCUIT DIAGRAM.png>)
+![alt text](<circuit.png>)
 ### 2. Core Logic / Pseudocode / Code Base
 
 **Working Principle:**

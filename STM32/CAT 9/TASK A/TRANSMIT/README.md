@@ -24,7 +24,7 @@ The experiment uses UART communication between the STM32 Blue Pill development b
 - **Baud Rate:** 115200 bps
 
 The TX pin of the STM32 is connected to the RX pin of the USB-to-TTL converter, with a common GND connection.
-![alt text](<CIRCUIT DIAGRAM.png>)
+![alt text](<circuit.png>)
 ### 2. Core Logic / Pseudocode / Code Base
 
 **Working Principle:**
