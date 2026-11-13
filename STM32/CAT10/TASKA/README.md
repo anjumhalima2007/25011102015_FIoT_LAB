@@ -31,7 +31,7 @@ The experiment establishes UART communication between the STM32 Blue Pill develo
 | RX | PA9 (USART1_TX) | Data from STM32 to Wemos |
 | GND | GND | Common Ground |
 | 3.3V | 3.3V | Power Supply |
-<img width="1000" height="543" alt="image" src="https://github.com/user-attachments/assets/bd854e7c-a1d2-4e29-aa9f-aa696730dc54" />
+![alt text](circuit.png)
 
 ### 2. Core Logic / Pseudocode / Code Base
 
