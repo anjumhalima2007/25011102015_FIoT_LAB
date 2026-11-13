@@ -30,7 +30,7 @@ The experiment uses the BME280 environmental sensor interfaced with the STM32 de
 - BME280 SDA and SCL pins are connected to the STM32 I²C1 interface.
 - ESP8266 TX and RX pins are connected to the STM32 USART1 interface.
 - VCC and GND connections are provided to the respective modules.
-<img width="990" height="657" alt="image" src="https://github.com/user-attachments/assets/200f6d18-5220-4716-98e2-b83796e64eed" />
+![alt text](circuit.png)
 
 ### 2. Core Logic / Pseudocode / Code Base
 

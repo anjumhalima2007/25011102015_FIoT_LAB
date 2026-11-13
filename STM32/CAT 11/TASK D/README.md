@@ -25,7 +25,7 @@ The experiment uses UART communication between the STM32 Blue Pill development b
 - **Baud Rate:** 115200 bps
 - **TCP Server Port:** 80
 - **Communication Protocol:** HTTP over TCP
-<img width="1000" height="543" alt="image" src="https://github.com/user-attachments/assets/81b355de-d58d-45ae-905b-12be2df16b66" />
+![alt text](circuit.png)
 
 The STM32 USART1 TX pin (PA9) is connected to the ESP8266 RX pin, and USART1 RX (PA10) is connected to the ESP8266 TX pin. USART2 is used to display incoming requests and ESP8266 responses on the PC terminal. All devices share a common GND connection.
 
