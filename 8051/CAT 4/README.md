@@ -27,7 +27,7 @@ The experiment uses a 4×3 matrix keypad as the input device, four LEDs to indic
 
 **Circuit Diagram:** 
 
-d:\25011102015_FIoT_LAB\FIoT_Lab_Assessment\8051\CAT 4\circuit.png
+![alt text](circuit-1.png)
 
 
 ### 2. Core Logic / Pseudocode / Code Base
