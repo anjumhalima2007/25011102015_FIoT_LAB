@@ -42,7 +42,7 @@ The experiment demonstrates event-based GPIO control using the STM32 Blue Pill d
 - When the button is released, PA3 reads HIGH.
 - When the button is pressed, PA3 reads LOW.
 - The onboard LED is active-low, so writing RESET turns it ON and writing SET turns it OFF.
-![alt text](<circuit.png>)
+![alt text](circuit.png)
 ### 2. Core Logic / Pseudocode / Code Base
 
 **Working Principle:**
