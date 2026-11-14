@@ -10,7 +10,7 @@
 
 ---
 
-## TASK 12 – BME280 Sensor Interfacing Using I²C
+## TASK 13 – BME280 Sensor Interfacing Using I²C
 
 ### 1. Circuit Diagram
 
